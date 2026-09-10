@@ -215,7 +215,7 @@ A placement cell can use this system to:
 
 ## 👩‍💻 Developer
 
-**Vaishnavi R**
+**Vaishnavi **
 B.Tech Artificial Intelligence & Data Science
 
 **Focus:** Data Analytics | Machine Learning | Python | SQL | Power BI
